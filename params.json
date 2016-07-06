@@ -1,6 +1,6 @@
 {
   "name": "二宝妈的博客",
   "tagline": "随便写写",
-  "body": "## **关于怎么用这个博客**\r\n这个链接是Markdown的说明, 用Markdown可以在这个博客里面写出格式漂亮的段落\r\n\r\n[认识与入门Markdown](http://sspai.com/25137)\r\n",
+  "body": "## **关于怎么用这个博客**\r\n这个链接是Markdown的说明, 用Markdown可以在这个博客里面写出格式漂亮的段落\r\n***\r\n[认识与入门Markdown](http://sspai.com/25137)\r\n***\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
